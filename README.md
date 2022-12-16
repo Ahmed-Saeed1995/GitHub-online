@@ -4,3 +4,5 @@
 1. python
 2. Java
 3. Php
+4. C++
+5. C
